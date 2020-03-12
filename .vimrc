@@ -51,4 +51,4 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 colorscheme rainbow_sea
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
-
+autocmd vimenter * NERDTree
