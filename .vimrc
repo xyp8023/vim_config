@@ -49,7 +49,7 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
-colorscheme wombat
+colorscheme base16-3024
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
 autocmd vimenter * NERDTree
 let NERDTreeShowHidden=1
