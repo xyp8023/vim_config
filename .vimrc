@@ -52,3 +52,4 @@ filetype plugin indent on    " required
 colorscheme rainbow_sea
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
 autocmd vimenter * NERDTree
+let NERDTreeShowHidden=1
